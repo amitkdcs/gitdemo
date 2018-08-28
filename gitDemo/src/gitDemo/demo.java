@@ -8,6 +8,7 @@ public class demo {
 		System.out.println("hello Github");
 		System.out.println("hello eclipse");
 		System.out.println("bye demo");
+		System.out.println("bye git");
 		
 
 	}
